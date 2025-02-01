@@ -4,6 +4,6 @@
 
 <br>
 <div align="center">
-  <img src="https://github.com/checkjunghyeon/M3RF/blob/main/docs/mcfmo_model_architecture.png" />&nbsp
+  <img src="https://github.com/checkjunghyeon/M3RF/blob/main/docs/m3rf_model_architecture.png" />&nbsp
 </div>
 
